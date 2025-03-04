@@ -69,10 +69,12 @@ Growth Milestone Measure, Percentage, and Count.
 
 ✅ Power Query – For data cleaning and transformation.
 
+✅ DAX (Data Analysis Expressions) – For creating calculated measures and aggregations.
+
 ✅ Power BI – For data visualization and dashboard creation.
 
 
-✅ DAX (Data Analysis Expressions) – For creating calculated measures and aggregations.
+
 
 
 

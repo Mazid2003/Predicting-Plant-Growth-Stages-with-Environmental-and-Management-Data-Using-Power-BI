@@ -65,6 +65,7 @@ Growth Milestone Measure, Percentage, and Count.
 ✔ Visually appealing and easy-to-interpret charts.
 
 **🛠️ Technologies Used**
+✅ Excel/CSV – Used as the dataset source.
 
 ✅ Power BI – For data visualization and dashboard creation.
 
@@ -72,7 +73,7 @@ Growth Milestone Measure, Percentage, and Count.
 
 ✅ DAX (Data Analysis Expressions) – For creating calculated measures and aggregations.
 
-✅ Excel/CSV – Used as the dataset source.
+
 
 **🚀 Conclusion**
 

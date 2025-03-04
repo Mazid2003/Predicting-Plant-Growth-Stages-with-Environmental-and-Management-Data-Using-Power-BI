@@ -78,8 +78,11 @@ Growth Milestone Measure, Percentage, and Count.
 
 This project provides valuable insights into plant growth stages based on environmental and management conditions. By using Power BI, we built an interactive, data-driven dashboard that helps in understanding optimal conditions for plant growth, leading to better agricultural decisions.
 
-📌 How to Run the Project
+**📌 How to Run the Project**
+
 1️⃣ Download the Power BI file (.pbix) from this repository.
+
 2️⃣ Open the file in Power BI Desktop.
+
 3️⃣ Interact with the dashboard by using the slicers and filters to explore the data.
 

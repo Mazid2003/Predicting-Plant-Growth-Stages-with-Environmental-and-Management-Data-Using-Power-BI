@@ -86,6 +86,10 @@ This project provides valuable insights into plant growth stages based on enviro
 
 3️⃣ Interact with the dashboard by using the slicers and filters to explore the data.
 
+**💬 Want to Collaborate?**
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
 **📚 License**
 
 This project is open-source and available under the MIT License.
